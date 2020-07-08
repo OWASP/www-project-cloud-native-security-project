@@ -2,21 +2,21 @@
 
 layout: col-sidebar
 title: OWASP Cloud-Native Security Project
-tags: example-tag
-level: 1
-type: 
-pitch: A very brief, one-line description of your project
+tags: cloud-native
+level: 2
+type: documentation
+pitch: A top-level project to unite all that is Cloud-Native security
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## What is Cloud-Native?
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+According to the [Linux Foundation](https://github.com/cncf/foundation/blob/master/charter.md#1-mission-of-the-cloud-native-computing-foundation):
+> “Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.”
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Although there is no consensus of its definition, we can outline that Cloud Native is a development and deployment methodology, in which applications are built as microservices and orchestrated as containers to take advantage of the cloud computing model. The term Cloud can be confusing as some may assume the strict necessity to deploy this type of software in a Cloud Provider, but as a matter of fact, the **where** question is not the most relevant, although many organizations will aim to do so.  If the applications are designed as loosely coupled systems, optimized for scalability and performance and managed through container orchestration, they are cloud-native. 
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## Cloud-Native Security
+### What Makes it Different From Traditional App Security?
+-Coming Soon-
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
