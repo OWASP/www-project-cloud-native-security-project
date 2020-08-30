@@ -22,7 +22,18 @@ Although there is no consensus of its definition, we can outline that Cloud Nati
 ### Purpose
 Since the idea of Cloud-Native is relatively new, there are not enough knowledge sources about its security aspects. The size and width of this topic just make the knowledge gap even greater. This project will try to bridge that gap by aggregating new and existing initiatives, under the same Cloud-Native Security roof.
 ### Roadmap
-The roadmap will be clearer as more initiatives will be added. The first steps would be to create a Cloud-Native FAQ, and a sample Cloud-Native application skeleton, in order to create a baseline of common language and knowledge. 
+#### CloudSheep (work in progress - estimated beta release: Q4 2020)
+> “I'm not totally useless. I can be used as a bad example.”
+>
+> -- Victor Hugo
+
+CloudSheep is an intentionally vulnerable Cloud-Native application. By making a deliberately insecure app, we can demo frequent errors and show security mistakes that are commonly seen in the industry.
+
+With real Cloud-Native architecture, different roles, and many endpoints, CloudSheep is a good example of what-not-to-do when it comes to securing your Cloud-Native application. It will be the perfect platform for educating software developers and security professionals about the challanges of Infrastructure as Code (IaC) and the pitfalls of Cloud-Native architecture.
+#### Cloud-Native Security FAQ (work in progress - estimated beta release: Q4 2020)
+Trying to close the huge knowledge gap, one question at a time.
+#### Cloud-Native Security Top 10 (work in progress - estimated beta release: Q1 2021)
+A flagship project that will result in a very clear awareness document about the Top 10 Cloud-Native Security Vulnerabilties that must be addressed first.
 
 ## Licensing
 **The OWASP API Security Project documents are free to use!**
