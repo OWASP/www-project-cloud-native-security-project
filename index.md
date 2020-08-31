@@ -36,12 +36,8 @@ Trying to close the huge knowledge gap, one question at a time.
 A flagship project that will result in a very clear awareness document about the Top 10 Cloud-Native Security Vulnerabilties that must be addressed first.
 
 ## Licensing
-**The OWASP API Security Project documents are free to use!**
-The OWASP API Security Project is licensed under the [Creative Commons
-Attribution-ShareAlike 3.0 license][license], so you can copy, distribute and
-transmit the work, and you can adapt it, and use it commercially, but all
-provided that you attribute the work and if you alter, transform, or build upon
-this work, you may distribute the resulting work only under the same or similar
-license to this one.
+**The OWASP CN Security Project documents are free to use!**
+
+The OWASP CN Security Project is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license][license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
 
 [license]: https://creativecommons.org/licenses/by-sa/3.0/
